@@ -1,0 +1,1 @@
+from SCA_iTools.distinguishers.base import _initialize_distinguisher  # noqa: F401
